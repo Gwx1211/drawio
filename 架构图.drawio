@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T03:03:13.479Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="15.5.8" etag="evg-Q79J-m-cRn5thDZk" type="github"><diagram id="WuLPHoG9mqRHDJPUA3OA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-09T03:34:56.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="aziYZar7JNZs_Q1o4hMt" version="15.5.8" type="github">
+  <diagram id="WuLPHoG9mqRHDJPUA3OA" name="第 1 页">
+    <mxGraphModel dx="706" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TMO7bS7y123iJ321jEIr-1" value="服务对象：互联网用户、普通注册用户、海外企业用户、各使领馆注册用户、安全司用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TMO7bS7y123iJ321jEIr-2" value="标准规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="50" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TMO7bS7y123iJ321jEIr-6" value="app端展示层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TMO7bS7y123iJ321jEIr-7" value="pc门户端展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TMO7bS7y123iJ321jEIr-8" value="pc后台管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TMO7bS7y123iJ321jEIr-9" value="后台业务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TMO7bS7y123iJ321jEIr-10" value="redis缓存层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TMO7bS7y123iJ321jEIr-11" value="数据库服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TMO7bS7y123iJ321jEIr-12" value="索引服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TMO7bS7y123iJ321jEIr-13" value="数据备份层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="460" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TMO7bS7y123iJ321jEIr-14" value="安全体系，运维体系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="220" width="50" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
